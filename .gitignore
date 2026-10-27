@@ -1,8 +1,12 @@
 .env
-storage_state.json
+storage_state*.json
 config/user_settings.json
 data/
 logs/
 __pycache__/
+*.py[cod]
 .venv/
 venv/
+build/
+dist/
+.pytest_cache/
