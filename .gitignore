@@ -1,0 +1,8 @@
+.env
+storage_state.json
+config/user_settings.json
+data/
+logs/
+__pycache__/
+.venv/
+venv/

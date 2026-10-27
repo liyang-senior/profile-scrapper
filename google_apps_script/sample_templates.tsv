@@ -1,0 +1,22 @@
+No	Title	Templates
+1	Hi {{receiver}}	"Hi {{receiver}},
+
+I hope you're doing well. I wanted to reach out and introduce myself.
+
+Would you be open to a quick chat sometime?
+
+Best regards,
+{{sender}}"
+2	Great to connect, {{receiver}}	"Hello {{receiver}},
+
+I came across your profile and thought it would be great to connect.
+
+Looking forward to hearing from you.
+
+{{sender}}"
+3	A quick note from {{sender}}	"Hi {{receiver}},
+
+Just a short note to say hello and see if you might be open to connecting.
+
+Thanks,
+{{sender}}"
